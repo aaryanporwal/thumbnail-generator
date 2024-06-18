@@ -1,0 +1,35 @@
+Documentation Roadmap
+IS Roadmap
+Engagement Deepdive
+Tuesday Lightning Talks
+Product Strategy Plenary
+SaaS Roadmap
+XZ Utils - A retrospective
+Wednesday Lightning Talks
+Devices Roadmap
+Charming Plenary
+Daniele's word of wisdom
+Thursday Lightning Talks
+Cloud Roadmap
+Friday Lightning Talks
+Closing Plenary
+Opening Plenary
+Profiling Plenary
+Profiling Ubuntu
+Monday Lightning Talks PM
+Tuesday Lightning Talks AM
+Profiling Go
+Working with a global community
+Presentation skills workshop
+Tuesday Lightning Talks PM
+Wednesday Lightning Talks AM
+Profiling Python
+What's new in Ops and Charm Tech
+Wednesday Lightning Talks PM
+Thursday Lightning Talks AM
+Profiling C/C++/Rust
+Thursday Lightning Talks PM
+Friday Lightning Talks AM
+Engineering Hackathon
+Friday Lightning Talks PM
+Closing Plenary
